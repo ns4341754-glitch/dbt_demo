@@ -4,7 +4,7 @@ sources:
     database: demo
     schema: demo_schema
     tables:
-      - name: BIKE
+      - name: bike
 
       - name: weather
 
