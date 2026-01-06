@@ -1,0 +1,5 @@
+select * from sources:
+  - name: demo
+    tables:
+      - name: bike
+      - name: weather 
